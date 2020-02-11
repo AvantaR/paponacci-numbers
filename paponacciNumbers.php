@@ -7,7 +7,7 @@ function paponacciNumbers()
 {
     $paponacciNumbers = [];
     for ($i = 0; $i <= 2137; $i++) {
-        if (preg_match('/[2137]{4}/', $i)) {
+        if (!preg_match('/[045689]{1}/', $i)) {
             $paponacciNumbers[] = $i;
         }
     }
