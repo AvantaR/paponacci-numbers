@@ -12,5 +12,5 @@ function paponacciNumbers()
         }
     }
 
-    return [];
+    return $paponacciNumbers;
 }
