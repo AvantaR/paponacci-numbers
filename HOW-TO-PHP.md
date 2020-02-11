@@ -1,3 +1,4 @@
+# paponacci-numbers - how to guide for PHP functions
 
 Example usage:
 
