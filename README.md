@@ -4,7 +4,7 @@ Simple implementation of Paponacci Numbers.
 
 Example usage:
 
-```
+```php
 $paponacciNumbers = paponacciNumbers(20);
 foreach($paponacciNumbers as $number){
     echo $number. PHP_EOL;
